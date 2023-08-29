@@ -8,7 +8,7 @@ with open("README.md", 'r') as f:
 
 setup(
   name='mkdocs-ezlinks-plugin',
-  version='0.1.14',
+  version='0.1.15a1',
   description=description,
   long_description=long_description,
   long_description_content_type='text/markdown',
